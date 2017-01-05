@@ -19,7 +19,7 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hoera ik heb iets veranderd!!");
+            MessageBox.Show("Hoera ik heb iets veranderd!! En een nieuwe branch gemaakt!");
         }
     }
 }
